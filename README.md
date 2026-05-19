@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Paulocgarcia/analise-estatistica-vendas-ecommerce/blob/main/AnaliseDeVendasParaLojaE-commerce.ipynb)
+
 # An-lise-Estat-stica-de-Vendas-e-Engenharia-de-Atributos-para-E-commerce
 Pipeline em Python para simulação estocástica de dados de e-commerce e aplicação prática de engenharia de atributos (Feature Engineering) e análise de dados com Pandas e NumPy.
 
@@ -80,10 +82,6 @@ O repositório contém análises detalhadas orientadas a responder perguntas est
 4.  **Análise de Margem por Categoria (Faturamento Por Categoria):** Visão macro do portfólio de produtos (Eletrônicos, Hardware, Acessórios, Móveis).
 
 ---
-
-## 🚀 Link para Executar o Projeto:
-
-https://colab.research.google.com/github/Paulocgarcia/analise-estatistica-vendas-ecommerce/blob/main/.ipynb
    
 👨‍💻 Autor
 Desenvolvido por Paulo Garcia. Sinta-se à vontade para entrar em contato, propor melhorias no código ou deixar uma estrela (⭐) se este projeto foi útil para os seus estudos!   
