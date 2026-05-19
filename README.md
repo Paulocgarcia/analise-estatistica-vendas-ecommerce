@@ -81,17 +81,9 @@ O repositório contém análises detalhadas orientadas a responder perguntas est
 
 ---
 
-## 🚀 Como Executar o Projeto
+## 🚀 Link para Executar o Projeto:
 
-1. Clone este repositório substituindo o nome da pasta de destino:
-   ```bash
-   git clone [https://github.com/Paulocgarcia/analise-estatistica-vendas-ecommerce.git](https://github.com/Paulocgarcia/analise-estatistica-vendas-ecommerce.git)
+https://colab.research.google.com/github/Paulocgarcia/analise-estatistica-vendas-ecommerce/blob/main/AnaliseDeVendasParaLojaE-commerce.ipynb
    
-2. Instale as dependências:
-Bash
-   pip install pandas numpy matplotlib seaborn watermark
-
-3. Abra o arquivo AnaliseDeVendasParaLojaE-commerce.ipynb no Jupyter Notebook ou execute diretamente no Google Colab.
-
-4. 👨‍💻 Autor
+👨‍💻 Autor
 Desenvolvido por Paulo Garcia. Sinta-se à vontade para entrar em contato, propor melhorias no código ou deixar uma estrela (⭐) se este projeto foi útil para os seus estudos!   
