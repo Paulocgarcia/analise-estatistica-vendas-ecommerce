@@ -83,7 +83,7 @@ O repositório contém análises detalhadas orientadas a responder perguntas est
 
 ## 🚀 Link para Executar o Projeto:
 
-https://colab.research.google.com/github/Paulocgarcia/analise-estatistica-vendas-ecommerce/blob/main/AnaliseDeVendasParaLojaE-commerce.ipynb
+https://colab.research.google.com/github/Paulocgarcia/analise-estatistica-vendas-ecommerce/blob/main/.ipynb
    
 👨‍💻 Autor
 Desenvolvido por Paulo Garcia. Sinta-se à vontade para entrar em contato, propor melhorias no código ou deixar uma estrela (⭐) se este projeto foi útil para os seus estudos!   
