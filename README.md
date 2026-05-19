@@ -1,4 +1,4 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Paulocgarcia/analise-estatistica-vendas-ecommerce/blob/main/AnaliseDeVendasParaLojaE-commerce.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Paulocgarcia/analise-estatistica-vendas-ecommerce/blob/main/analise-estatistica-vendas-ecommerce.ipynb)
 
 # An-lise-Estat-stica-de-Vendas-e-Engenharia-de-Atributos-para-E-commerce
 Pipeline em Python para simulação estocástica de dados de e-commerce e aplicação prática de engenharia de atributos (Feature Engineering) e análise de dados com Pandas e NumPy.
