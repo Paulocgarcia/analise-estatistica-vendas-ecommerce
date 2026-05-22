@@ -1,3 +1,23 @@
+---
+
+## ⚠️ Instruções para Iniciar o Programa no Google Colab
+
+Para que o notebook execute corretamente e todas as análises sejam geradas sem erros de caminhos ou de pacotes, siga este passo a passo ao abrir o ambiente virtual:
+
+### 1. Instalação de Dependências Focadas em Reprodutibilidade
+O projeto utiliza uma versão específica do Pandas e a biblioteca `watermark` para garantir que o código rode exatamente com as mesmas versões com as quais foi desenvolvido. 
+* **O que fazer:** Assim que o Google Colab carregar, **execute a primeira célula de código** que contém os comandos `!pip install`. Aguarde a conclusão da instalação antes de seguir para as próximas células.
+
+### 2. Reinicialização do Ambiente (Se necessário)
+Caso o Pandas exiba algum alerta ou comportamento inesperado após o download da nova versão, clique no menu superior do Colab em **Ambiente de execução** > **Reiniciar sessão** (ou use o atalho `Ctrl + M .`). Isso forçará o ecossistema a carregar as bibliotecas atualizadas na memória.
+
+### 3. Ordem Estrita de Execução (Notebook Lifecycle)
+Como este projeto simula e transforma dados de forma sequencial, as células possuem dependência direta umas das outras.
+* **O que fazer:** Execute as células **na ordem linear de cima para baixo**. 
+* **Atenção:** Se você tentar rodar a célula de *Engenharia de Atributos* (como o cálculo de Faturamento) antes de rodar a célula que chama a função `df_vendas = gera_dados_ficticios(500)`, o Python retornará um erro de `NameError: name 'df_vendas' is not defined`.
+
+---
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Paulocgarcia/analise-estatistica-vendas-ecommerce/blob/main/analise-estatistica-vendas-ecommerce.ipynb)
 
 # An-lise-Estat-stica-de-Vendas-e-Engenharia-de-Atributos-para-E-commerce
