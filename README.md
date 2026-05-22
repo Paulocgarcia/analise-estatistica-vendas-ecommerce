@@ -20,7 +20,7 @@ Como este projeto simula e transforma dados de forma sequencial, as células pos
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Paulocgarcia/analise-estatistica-vendas-ecommerce/blob/main/analise-estatistica-vendas-ecommerce.ipynb)
 
-# An-lise-Estat-stica-de-Vendas-e-Engenharia-de-Atributos-para-E-commerce
+# Analise-Estatistica-de-Vendas-e-Engenharia-de-Atributos-para-E-commerce
 Pipeline em Python para simulação estocástica de dados de e-commerce e aplicação prática de engenharia de atributos (Feature Engineering) e análise de dados com Pandas e NumPy.
 
 Este projeto foi desenvolvido com o objetivo de simular, processar e analisar dados de transações diárias de uma plataforma de e-commerce em crescimento. O foco principal está na aplicação prática de **Engenharia de Atributos**, estruturação de pipelines de dados com **Pandas** e **NumPy**, e na transformação de dados brutos em insights estratégicos de negócios (Data-Driven Decisions).
